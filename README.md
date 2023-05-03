@@ -3,20 +3,13 @@ The official version of ResFAUnet, based on the pytorch implementation.
 
 The official code for : High precision segmentation of small sample buildings based on transfer learning and multi-scale fusion
 
+！！This is the first version of the ResFAUnet code for your reference and learning. After our paper is officially accepted, we will further maintain the code. Thank you for reading.
+
+If you approve of our work, feel free to cite it. Please contact xxbtc@hhu.edu.cn
 
 Network structure：
 
 ![总结构图](https://user-images.githubusercontent.com/88971302/235640036-c5dcfa51-5860-4c01-94cc-7aaa7a305ab4.png)
-
-
-Network performance：
-We selected 500 images from Inria Aeriallmage Labeling Dataset as data sets to evaluate the performance of ResFAUnet
-you can find Inria Dataset from : https://project.inria.fr/aerialimagelabeling/
-
-
-![image](https://user-images.githubusercontent.com/88971302/235640874-5845729d-096e-49c6-8a10-86415365f679.png)
-
-
 
 
 Test environment：
